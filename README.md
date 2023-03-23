@@ -10,3 +10,4 @@ This is done via the [Safe Transaction Service API](https://safe-transaction-mai
 
 ![Customer Feedback](https://monkeylearn.com/static/5899e3902d303d7239fca4b930e0b77f/8f5e0/ml-studio.webp)
 
+![Diversity and Inclusion](https://weadvance.ch/wp-content/uploads/2020/09/Diversity-Inclusion-Dashboard-demonstration_Page_1-lowres.png)
