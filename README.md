@@ -4,10 +4,5 @@ Counting the number of “WalletConnect transactions” made with the Safe addre
 
 This is done via the [Safe Transaction Service API](https://safe-transaction-mainnet.safe.global/)
 
-![Customer Segmentation by Age](https://www.researchgate.net/profile/Atanda-Ayanlola/publication/341763764/figure/fig2/AS:896909044629506@1590851188788/Pie-Chart-Showing-the-Distribution-of-Respondents-by-Age-Group-Figure-3-shows-that.ppm)
+![Customer Segmentation by Age](https://www.researchgate.net/profile/Feras-Alnaser/publication/315457428/figure/fig2/AS:530038300700672@1503382386127/Pie-chart-reflects-the-demographic-details-of-500-respondents.png)
 
-![Team Performance](https://trumpexcel.com/wp-content/uploads/2015/06/KPI-Dashboard-in-Excel-Scatter-Chart.gif)
-
-![Customer Feedback](https://monkeylearn.com/static/5899e3902d303d7239fca4b930e0b77f/8f5e0/ml-studio.webp)
-
-![Diversity and Inclusion](https://weadvance.ch/wp-content/uploads/2020/09/Diversity-Inclusion-Dashboard-demonstration_Page_1-lowres.png)
